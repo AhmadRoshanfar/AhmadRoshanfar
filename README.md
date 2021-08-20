@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Ahmad
-#### I am mainly Embedded System and Embedded Linux Developer. Also, I develop Websites and GUI Applications for my IoT projects.
+#### I'm mainly Embedded System and Embedded Linux Developer. Also, I develop Websites and GUI Applications for my IoT projects.
 
 * Embedded System Skills: ARM [STM32] / ESP32 [ESP-IDF] / Yocto / AVR / Embedded C
 * GUI Skills: QT / Flutter
